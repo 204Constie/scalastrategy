@@ -4,7 +4,7 @@
 		module="scalastrategy_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170408132640"
+		publication="20170422191758"
 	>
 		<description>
 		scalaStrategy
@@ -34,5 +34,6 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.1" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.1" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="net.liftweb" name="lift-json_2.12" rev="3.0.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

@@ -7,14 +7,14 @@
 		revision="1.0"
 		conf="default"
 		confs="default"
-		date="20170408132640"/>
+		date="20170422191226"/>
 	<dependencies>
 		<module organisation="org.scala-sbt" name="sbt">
 			<revision name="0.13.14" status="release" pubdate="20170407025627" resolver="sbt-chain" artresolver="sbt-chain" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="42">
 				<metadata-artifact status="no" details="" size="1455" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/sbt/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="3558" time="2174" location="/Users/constie/.ivy2/cache/org.scala-sbt/sbt/srcs/sbt-0.13.14-sources.jar">
+					<artifact name="sbt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3558" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/sbt/srcs/sbt-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/sbt/0.13.14/srcs/sbt-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -25,7 +25,7 @@
 				<metadata-artifact status="no" details="" size="1802" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-interface/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compiler-interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="32695" time="2209" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-interface/srcs/compiler-interface-0.13.14-sources.jar">
+					<artifact name="compiler-interface" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="32695" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-interface/srcs/compiler-interface-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-interface/0.13.14/srcs/compiler-interface-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -36,7 +36,7 @@
 				<metadata-artifact status="no" details="" size="2547" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/main/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="main" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="179565" time="2681" location="/Users/constie/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.14-sources.jar">
+					<artifact name="main" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="179565" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/main/srcs/main-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main/0.13.14/srcs/main-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -47,7 +47,7 @@
 				<metadata-artifact status="no" details="" size="1652" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/logic/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logic/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="logic" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="5036" time="2172" location="/Users/constie/.ivy2/cache/org.scala-sbt/logic/srcs/logic-0.13.14-sources.jar">
+					<artifact name="logic" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5036" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/logic/srcs/logic-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logic/0.13.14/srcs/logic-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -58,7 +58,7 @@
 				<metadata-artifact status="no" details="" size="2699" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/main-settings/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="main-settings" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="31920" time="2198" location="/Users/constie/.ivy2/cache/org.scala-sbt/main-settings/srcs/main-settings-0.13.14-sources.jar">
+					<artifact name="main-settings" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="31920" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/main-settings/srcs/main-settings-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/main-settings/0.13.14/srcs/main-settings-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -69,7 +69,7 @@
 				<metadata-artifact status="no" details="" size="2372" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/command/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="command" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="21324" time="2200" location="/Users/constie/.ivy2/cache/org.scala-sbt/command/srcs/command-0.13.14-sources.jar">
+					<artifact name="command" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="21324" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/command/srcs/command-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/command/0.13.14/srcs/command-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -92,7 +92,7 @@
 				<metadata-artifact status="no" details="" size="1679" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/apply-macro/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="apply-macro" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13485" time="2197" location="/Users/constie/.ivy2/cache/org.scala-sbt/apply-macro/srcs/apply-macro-0.13.14-sources.jar">
+					<artifact name="apply-macro" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13485" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/apply-macro/srcs/apply-macro-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/apply-macro/0.13.14/srcs/apply-macro-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -103,7 +103,7 @@
 				<metadata-artifact status="no" details="" size="3071" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/actions/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/actions/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="actions" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="30828" time="2215" location="/Users/constie/.ivy2/cache/org.scala-sbt/actions/srcs/actions-0.13.14-sources.jar">
+					<artifact name="actions" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="30828" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/actions/srcs/actions-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/actions/0.13.14/srcs/actions-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -114,7 +114,7 @@
 				<metadata-artifact status="no" details="" size="1779" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/testing/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/testing/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="testing" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10260" time="2213" location="/Users/constie/.ivy2/cache/org.scala-sbt/testing/srcs/testing-0.13.14-sources.jar">
+					<artifact name="testing" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10260" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/testing/srcs/testing-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/testing/0.13.14/srcs/testing-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -125,7 +125,7 @@
 				<metadata-artifact status="no" details="" size="1292" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/test-agent/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-agent/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="test-agent" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="6353" time="2242" location="/Users/constie/.ivy2/cache/org.scala-sbt/test-agent/srcs/test-agent-0.13.14-sources.jar">
+					<artifact name="test-agent" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6353" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/test-agent/srcs/test-agent-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/test-agent/0.13.14/srcs/test-agent-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -148,7 +148,7 @@
 				<metadata-artifact status="no" details="" size="1372" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/tracking/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tracking/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="tracking" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="5620" time="2159" location="/Users/constie/.ivy2/cache/org.scala-sbt/tracking/srcs/tracking-0.13.14-sources.jar">
+					<artifact name="tracking" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="5620" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/tracking/srcs/tracking-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tracking/0.13.14/srcs/tracking-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -159,7 +159,7 @@
 				<metadata-artifact status="no" details="" size="1688" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/cache/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cache/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="cache" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="7078" time="2194" location="/Users/constie/.ivy2/cache/org.scala-sbt/cache/srcs/cache-0.13.14-sources.jar">
+					<artifact name="cache" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="7078" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/cache/srcs/cache-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cache/0.13.14/srcs/cache-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -170,7 +170,7 @@
 				<metadata-artifact status="no" details="" size="1973" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/task-system/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/task-system/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="task-system" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="9154" time="2203" location="/Users/constie/.ivy2/cache/org.scala-sbt/task-system/srcs/task-system-0.13.14-sources.jar">
+					<artifact name="task-system" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="9154" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/task-system/srcs/task-system-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/task-system/0.13.14/srcs/task-system-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -181,7 +181,7 @@
 				<metadata-artifact status="no" details="" size="1651" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/tasks/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tasks/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="tasks" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11946" time="2196" location="/Users/constie/.ivy2/cache/org.scala-sbt/tasks/srcs/tasks-0.13.14-sources.jar">
+					<artifact name="tasks" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11946" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/tasks/srcs/tasks-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tasks/0.13.14/srcs/tasks-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -192,7 +192,7 @@
 				<metadata-artifact status="no" details="" size="1854" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/run/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/run/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="run" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="17702" time="2219" location="/Users/constie/.ivy2/cache/org.scala-sbt/run/srcs/run-0.13.14-sources.jar">
+					<artifact name="run" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="17702" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/run/srcs/run-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/run/0.13.14/srcs/run-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -203,7 +203,7 @@
 				<metadata-artifact status="no" details="" size="1439" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-ivy-integration/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compiler-ivy-integration" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2269" time="2163" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/srcs/compiler-ivy-integration-0.13.14-sources.jar">
+					<artifact name="compiler-ivy-integration" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2269" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-ivy-integration/srcs/compiler-ivy-integration-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-ivy-integration/0.13.14/srcs/compiler-ivy-integration-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -214,7 +214,7 @@
 				<metadata-artifact status="no" details="" size="2263" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/ivy/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/ivy/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="116924" time="2277" location="/Users/constie/.ivy2/cache/org.scala-sbt/ivy/srcs/ivy-0.13.14-sources.jar">
+					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="116924" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/ivy/srcs/ivy-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/ivy/0.13.14/srcs/ivy-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -333,7 +333,7 @@
 				<metadata-artifact status="no" details="" size="3556" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt.ivy/ivy/ivy-2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4/ivy-2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4.pom"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4" rev-constraint-default="2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4" rev-constraint-dynamic="2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="886506" time="1025" location="/Users/constie/.ivy2/cache/org.scala-sbt.ivy/ivy/srcs/ivy-2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4-sources.jar">
+					<artifact name="ivy" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="886506" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt.ivy/ivy/srcs/ivy-2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/ivy/ivy/2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4/ivy-2.3.0-sbt-48dd0744422128446aee9ac31aa356ee203cc9f4-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -344,7 +344,7 @@
 				<metadata-artifact status="no" details="" size="1171" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/cross/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cross/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="cross" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="249" time="2158" location="/Users/constie/.ivy2/cache/org.scala-sbt/cross/srcs/cross-0.13.14-sources.jar">
+					<artifact name="cross" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="249" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/cross/srcs/cross-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/cross/0.13.14/srcs/cross-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -355,7 +355,7 @@
 				<metadata-artifact status="no" details="" size="1732" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-integration/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-integration/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compiler-integration" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="12477" time="2206" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-integration/srcs/compiler-integration-0.13.14-sources.jar">
+					<artifact name="compiler-integration" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="12477" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compiler-integration/srcs/compiler-integration-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compiler-integration/0.13.14/srcs/compiler-integration-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -366,7 +366,7 @@
 				<metadata-artifact status="no" details="" size="1786" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/persist/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/persist/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="persist" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="11913" time="2207" location="/Users/constie/.ivy2/cache/org.scala-sbt/persist/srcs/persist-0.13.14-sources.jar">
+					<artifact name="persist" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="11913" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/persist/srcs/persist-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/persist/0.13.14/srcs/persist-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -388,7 +388,7 @@
 				<metadata-artifact status="no" details="" size="2292" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compile/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compile/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="compile" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="26733" time="2199" location="/Users/constie/.ivy2/cache/org.scala-sbt/compile/srcs/compile-0.13.14-sources.jar">
+					<artifact name="compile" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="26733" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/compile/srcs/compile-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/compile/0.13.14/srcs/compile-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -399,7 +399,7 @@
 				<metadata-artifact status="no" details="" size="1995" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/incremental-compiler/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/incremental-compiler/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="incremental-compiler" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="46883" time="2219" location="/Users/constie/.ivy2/cache/org.scala-sbt/incremental-compiler/srcs/incremental-compiler-0.13.14-sources.jar">
+					<artifact name="incremental-compiler" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="46883" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/incremental-compiler/srcs/incremental-compiler-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/incremental-compiler/0.13.14/srcs/incremental-compiler-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -410,7 +410,7 @@
 				<metadata-artifact status="no" details="" size="1681" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/relation/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/relation/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="relation" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="2684" time="2180" location="/Users/constie/.ivy2/cache/org.scala-sbt/relation/srcs/relation-0.13.14-sources.jar">
+					<artifact name="relation" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="2684" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/relation/srcs/relation-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/relation/0.13.14/srcs/relation-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -421,7 +421,7 @@
 				<metadata-artifact status="no" details="" size="1663" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/api/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/api/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="api" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="25387" time="2247" location="/Users/constie/.ivy2/cache/org.scala-sbt/api/srcs/api-0.13.14-sources.jar">
+					<artifact name="api" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="25387" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/api/srcs/api-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/api/0.13.14/srcs/api-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -432,7 +432,7 @@
 				<metadata-artifact status="no" details="" size="1778" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/classfile/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classfile/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="classfile" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="8558" time="2214" location="/Users/constie/.ivy2/cache/org.scala-sbt/classfile/srcs/classfile-0.13.14-sources.jar">
+					<artifact name="classfile" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="8558" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/classfile/srcs/classfile-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classfile/0.13.14/srcs/classfile-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -443,7 +443,7 @@
 				<metadata-artifact status="no" details="" size="1764" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/logging/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logging/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="logging" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="15357" time="2245" location="/Users/constie/.ivy2/cache/org.scala-sbt/logging/srcs/logging-0.13.14-sources.jar">
+					<artifact name="logging" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="15357" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/logging/srcs/logging-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/logging/0.13.14/srcs/logging-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -454,7 +454,7 @@
 				<metadata-artifact status="no" details="" size="1257" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/process/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/process/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="process" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10012" time="2216" location="/Users/constie/.ivy2/cache/org.scala-sbt/process/srcs/process-0.13.14-sources.jar">
+					<artifact name="process" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10012" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/process/srcs/process-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/process/0.13.14/srcs/process-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -465,7 +465,7 @@
 				<metadata-artifact status="no" details="" size="1851" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/completion/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/completion/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="completion" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="28166" time="2197" location="/Users/constie/.ivy2/cache/org.scala-sbt/completion/srcs/completion-0.13.14-sources.jar">
+					<artifact name="completion" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="28166" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/completion/srcs/completion-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/completion/0.13.14/srcs/completion-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -477,7 +477,7 @@
 				<metadata-artifact status="no" details="" size="5033" time="0" location="/Users/constie/.ivy2/cache/jline/jline/ivy-2.14.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3.pom"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="2.14.3" rev-constraint-default="2.14.3" rev-constraint-dynamic="2.14.3" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="110147" time="231" location="/Users/constie/.ivy2/cache/jline/jline/srcs/jline-2.14.3-sources.jar">
+					<artifact name="jline" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="110147" time="0" location="/Users/constie/.ivy2/cache/jline/jline/srcs/jline-2.14.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/jline/jline/2.14.3/jline-2.14.3-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -488,7 +488,7 @@
 				<metadata-artifact status="no" details="" size="1475" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/collections/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="collections" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="28498" time="2211" location="/Users/constie/.ivy2/cache/org.scala-sbt/collections/srcs/collections-0.13.14-sources.jar">
+					<artifact name="collections" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="28498" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/collections/srcs/collections-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/collections/0.13.14/srcs/collections-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -499,7 +499,7 @@
 				<metadata-artifact status="no" details="" size="1889" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/classpath/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classpath/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="classpath" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="13493" time="2212" location="/Users/constie/.ivy2/cache/org.scala-sbt/classpath/srcs/classpath-0.13.14-sources.jar">
+					<artifact name="classpath" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="13493" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/classpath/srcs/classpath-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/classpath/0.13.14/srcs/classpath-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -512,7 +512,7 @@
 				<metadata-artifact status="no" details="" size="2458" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/launcher-interface/ivy-1.0.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.1/launcher-interface-1.0.1.pom"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="1.0.1" rev-constraint-default="1.0.1" rev-constraint-dynamic="1.0.1" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="launcher-interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="10614" time="269" location="/Users/constie/.ivy2/cache/org.scala-sbt/launcher-interface/srcs/launcher-interface-1.0.1-sources.jar">
+					<artifact name="launcher-interface" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="10614" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/launcher-interface/srcs/launcher-interface-1.0.1-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.1/launcher-interface-1.0.1-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -523,7 +523,7 @@
 				<metadata-artifact status="no" details="" size="1636" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/io/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="io" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="26972" time="2245" location="/Users/constie/.ivy2/cache/org.scala-sbt/io/srcs/io-0.13.14-sources.jar">
+					<artifact name="io" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="26972" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/io/srcs/io-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/io/0.13.14/srcs/io-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -534,7 +534,7 @@
 				<metadata-artifact status="no" details="" size="1179" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/control/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0"/>
 				<artifacts>
-					<artifact name="control" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="3202" time="2174" location="/Users/constie/.ivy2/cache/org.scala-sbt/control/srcs/control-0.13.14-sources.jar">
+					<artifact name="control" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="3202" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/control/srcs/control-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/control/0.13.14/srcs/control-sources.jar"/>
 					</artifact>
 				</artifacts>
@@ -545,7 +545,7 @@
 				<metadata-artifact status="no" details="" size="1207" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/interface/ivy-0.13.14.xml" searched="false" origin-is-local="false" origin-location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.14/ivys/ivy.xml"/>
 				<caller organisation="default" name="scalastrategy$sources_2.10" conf="default" rev="0.13.14" rev-constraint-default="0.13.14" rev-constraint-dynamic="0.13.14" callerrev="1.0" extra-component="xsbti"/>
 				<artifacts>
-					<artifact name="interface" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="16350" time="2367" location="/Users/constie/.ivy2/cache/org.scala-sbt/interface/srcs/interface-0.13.14-sources.jar">
+					<artifact name="interface" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="16350" time="0" location="/Users/constie/.ivy2/cache/org.scala-sbt/interface/srcs/interface-0.13.14-sources.jar">
 						<origin-location is-local="false" location="https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/interface/0.13.14/srcs/interface-sources.jar"/>
 					</artifact>
 				</artifacts>

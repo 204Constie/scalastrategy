@@ -4,7 +4,7 @@
 		module="scalastrategy$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20170408132640"
+		publication="20170422191226"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
